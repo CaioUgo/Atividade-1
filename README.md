@@ -10,9 +10,13 @@ A história do Git remonta a uma crise no desenvolvimento do kernel do Linux em 
 -Git foi projetado com as seguintes características em mente : 
 
 Distribuído: Cada desenvolvedor tem uma cópia completa do repositório, permitindo um desenvolvimento descentralizado e offline.
+
 Velocidade: É notavelmente rápido, mesmo em projetos de grande escala, devido ao seu design eficiente.
+
 Integridade dos Dados: Usa um sistema de hash criptográfico para garantir que os dados do repositório permaneçam seguros e intactos.
+
 Branching e Merging Eficientes: Oferece suporte a ramificações leves e mesclagens rápidas, facilitando o desenvolvimento paralelo e a colaboração.
+
 Flexibilidade: É altamente adaptável e pode ser usado para uma ampla variedade de projetos, desde pequenos projetos individuais até grandes projetos corporativos.
 
 Desde sua criação em 2005, o Git se tornou o sistema de controle de versão mais amplamente utilizado no mundo do desenvolvimento de software, alimentando projetos de código aberto e corporativos em todo o mundo. Sua popularidade é atribuída à sua robustez, flexibilidade e à vasta gama de recursos que oferece para simplificar o gerenciamento de código-fonte.
