@@ -1,7 +1,7 @@
-## Atividade 1.
+# Atividade 1.
  Primeira atividade no Git e GitHub, que fala e explica características e um pouco de história dos dois.
 
- #Iremos começar pelo Git, mas afinal, o que é isso, quais são suas funcionalidades, recursos e comandos?
+ ## Iremos começar pelo Git, mas afinal, o que é isso, quais são suas funcionalidades, recursos e comandos?
 
 O Git é um sistema de controle de versão de distribuição desenvolvido por Linus Torvalds em 2005. Surgiu da necessidade de realizar o gerenciamento do desenvolvimento de kernel do Linux de forma eficiente, já que os sistemas de controle de versão disponíveis na época não atendiam às demandas da comunidade de desenvolvedores.
 
@@ -30,7 +30,7 @@ Outro recurso importante do Git é sua capacidade de desfazer alterações. Se u
 O Git também oferece uma série de comandos úteis para realizar operações comuns de controle de versão. Por exemplo, o comando 'git init inicia um repositório Git em um diretório, enquanto o comando 'git clone clona um repositório Git existente para a sua máquina local. O comando 'git add adiciona arquivos modificados ou novos ao índice (staging area), enquanto o comando 'git commit registra as alterações no repositório, adicionando uma mensagem descritiva. Outros comandos úteis incluem 'git push para enviar commits locais para o repositório remoto, 'git pull para atualizar o repositório local com as alterações do repositório remoto, 'git branch para listar, criar ou excluir branches, 'git merge para mesclar as alterações de um branch para outro, entre outros.
 
 
-#Agora vou falar sobre o Github:
+## Agora vou falar sobre o Github:
 
 A história do GitHub é fascinante e reflete a evolução da colaboração em desenvolvimento de software na era digital. Fundado em 2008 por Tom Preston-Werner, Chris Wanstrath e PJ Hyett, o GitHub teve origens humildes como uma ferramenta interna para os desenvolvedores do Ruby on Rails. Na época, os fundadores perceberam a necessidade de uma plataforma que simplificasse e tornasse mais eficiente a colaboração em projetos de código aberto. Eles viram que o Git, um sistema de controle de versão distribuído desenvolvido por Linus Torvalds, era uma excelente base para essa plataforma, pois permitia que os desenvolvedores trabalhassem em conjunto de forma descentralizada. Assim, o GitHub nasceu como uma plataforma que combinava o Git com uma interface web amigável e recursos sociais, como issues e pull requests, que facilitavam a colaboração entre os desenvolvedores. Rapidamente, ganhou popularidade entre a comunidade de desenvolvimento de software de código aberto e começou a atrair projetos de todos os tamanhos e de diversas áreas.
 
@@ -44,7 +44,7 @@ As issues são utilizadas para rastrear tarefas, bugs ou melhorias em um projeto
 
 
 
-#Agora um breve passo a passo de como postar seu projeto online:
+## Agora um breve passo a passo de como postar seu projeto online:
 
 Primeiro, certifique-se de ter o Git instalado em seu sistema. Se ainda não o tiver, você pode baixá-lo e instalá-lo a partir do site oficial do Git. Em seguida, crie uma conta no GitHub se ainda não tiver uma. É gratuito e fácil de configurar. Depois de criar sua conta, faça login no GitHub.
 
